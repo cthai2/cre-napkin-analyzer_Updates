@@ -1,5 +1,20 @@
 {
   "latest_version": "3.00",
-  "release_notes": "Added advanced commercial metrics and performance improvements.",
+  "release_notes": "Version 3.00 (September 2026)
+- Multi-platform Desktop support (Windows, macOS, and Linux) 
+- Added dual-theme Light & Dark mode toggle support across all sections and result cards.
+- Integrated dynamic asset-specific Cap Rate Heat flow spectrum with live mouse inspection.
+- Enhanced Mini CRE Calculators with economic vacancy breakdowns and plain-English guides.
+- Added in Math enabled calculation inputs
+- Removed Evaluate Button for dynamic calculations
+- Added in scroll bar feature to Proforma Calculations, Market Cap Rate Valuation Spectrum
+- Tool Tips over hover
+- Send over calculation results from mini calculator to input fields
+- Added in alternative ways if the Ask price or Cap Rate is not known
+- Now able to Export/import deals & generate PDF from all tabs
+- Clear Form button added to each form
+- Reset to default for Proposed Debt Structure & Targets in Acquisition Screener
+- Localization Language Support (English, Spanish, French, Chinese, Korean, Japanese, Vietnamese, Russian, Hindi, Portuguese, Arabic, German, Italian, Dutch, Tagalog, Swedish)
+",
   "download_url": "https://cthai.gumroad.com/l/CRE_Napkin_Trial"
 }
